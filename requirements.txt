@@ -1,0 +1,2 @@
+dependency1==X.Y.Z
+dependency2==Z.Y.Z
